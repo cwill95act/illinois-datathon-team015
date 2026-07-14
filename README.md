@@ -177,3 +177,8 @@ At 30-minute intervals.
 ---
 # illinois-datathon-team015
 # Illinois Datathon - Team 015
+
+## 📊 Competition Slides
+
+- [2026 Synchrony Datathon Kickoff Presentation](./Competition_Slides/2026%20Synchrony%20Datathon%20Kickoff%20Presentation.pdf)
+- [2026 Datathon Schedule & Sponsors](./Competition_Slides/2026%20Datathon%20Schedule%2BSponsor.pdf)
